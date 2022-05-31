@@ -1,0 +1,11 @@
+.bg-1 {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+body {
+    font-family: 'PT Serif', serif;
+}
