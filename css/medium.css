@@ -8,8 +8,13 @@
 
 body {
     font-family: 'PT Serif', serif;
+    padding-top: 50px;
 }
 
 .row-number {
     color: #E6E6E6;
+}
+
+.aside-buttons>li {
+    margin-bottom: 10px;
 }
