@@ -18,3 +18,8 @@ body {
 .aside-buttons>li {
     margin-bottom: 10px;
 }
+
+.right-bar {
+    position: sticky-top;
+    overflow: visible;
+}
